@@ -1,0 +1,42 @@
+export const cards = [
+  {
+    id: 1,
+    title: "Summer Hydration",
+    description: "Keep your plants hydrated during the hot summer months.",
+    color: "#FDCDBC",
+    tag: "Expert Pick",
+    textColor: "#795548",
+  },
+  {
+    id: 2,
+    title: "Card Two",
+    description: "Card two description goes here.",
+    color: "#E7E9E6",
+    tag: "Popular",
+    textColor: "#191C1B",
+  },
+  {
+    id: 3,
+    title: "Card Three",
+    description: "Some details about card three.",
+    color: "#FF9800",
+    tag: "New",
+    textColor: "#795548",
+  },
+  {
+    id: 4,
+    title: "Card Four",
+    description: "Card four description text.",
+    color: "#9C27B0",
+    tag: "Recommended",
+    textColor: "#795548",
+  },
+  {
+    id: 5,
+    title: "Card Five",
+    description: "Card five description here.",
+    color: "#F44336",
+    tag: "Expert Pick",
+    textColor: "#795548",
+  },
+];

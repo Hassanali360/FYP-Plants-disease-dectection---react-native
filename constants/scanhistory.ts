@@ -1,0 +1,32 @@
+export const scanCard = [
+  {
+    id: 1,
+    title: "Fiddle Leaf Fig",
+    subtitle: "Scanned 2 hours ago",
+    status: "HEALTHY",
+    statusType: "success",
+    image: require("../assets/images/c1.png"),
+    label: "Safe work",
+    labelSub: "Safe work",
+  },
+  {
+    id: 2,
+    title: "Garden Rose",
+    subtitle: "Scanned Yesterday",
+    status: "RUST FUNGUS",
+    statusType: "danger",
+image: require("../assets/images/c2.png"),
+    label: "Needs attention",
+    labelSub: "Check condition",
+  },
+  {
+    id: 3,
+    title: "Snake Plant",
+    subtitle: "3 days ago",
+    status: "HEALTHY",
+    statusType: "success",
+    image: require("../assets/images/c3.png"),
+    label: "Safe work",
+    labelSub: "Safe work",
+  },
+];
